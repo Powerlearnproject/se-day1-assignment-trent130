@@ -31,7 +31,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 - project manager ensures that the project deadlines are met.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code.
+- An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code.
 and version control systems are software tools that help software teams manage changes to source code over time like  Git.
 
 
@@ -52,7 +52,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 prompt engineering is the process of writing instructions to AI to generate the best and optimum solution.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-help me debug.
-help me debug a syntax error that is here in this code [provided code].
-clarity - ensure that the prompt is very concise and detailed to the point it the AI model enderstands and produces the best output.
-detailed - ensure that the details or what i want to do is very detailed to inch perfect.
+- help me debug.
+- help me debug a syntax error that is here in this code [provided code].
+  - clarity - ensure that the prompt is very concise and detailed to the point it the AI model enderstands and produces the best output.
+  - detailed - ensure that the details or what i want to do is very detailed to inch perfect.
